@@ -4,4 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I will fill this later
+<html>
+
+<body>
+
+<p class="word">
+
+<script src="https://wordsmith.org/words/word3.js" type="text/javascript">
+</script>
+</p>
+
+</body>
+</html>
+
